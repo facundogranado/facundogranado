@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Facundo</a></h1>
-<h3 align="center">Frontend developer from Argentina </h3>
+<h3 align="center">Fullstack developer from Argentina </h3>
 
 
 <p align="center">
