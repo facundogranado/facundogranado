@@ -18,7 +18,7 @@ Facundo</a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,github,haskell,postman,vscode,css,js,jest,mongodb,react,nodedb" />
+    <img src="https://skillicons.dev/icons?i=git,c,github,haskell,css,js,jest,mongodb,react,nodedb" />
   </a>
 </p>
 
