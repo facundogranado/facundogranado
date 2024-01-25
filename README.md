@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Facundo</a></h1>
-<h3 align="center">A passionate backend developer from Argentina </h3>
+<h3 align="center">Frontend developer from Argentina </h3>
 
 
 <p align="center">
@@ -18,7 +18,7 @@ Facundo</a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,github,java,haskell,hibernate,spring,linux,mysql,postman,vscode,eclipse&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,c,github,haskell,postman,vscode,css,js,jest,mongodb,react,nodedb" />
   </a>
 </p>
 
