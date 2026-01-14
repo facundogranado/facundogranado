@@ -1,25 +1,17 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Facundo</a></h1>
-<h3 align="center">Fullstack developer from Argentina </h3>
+##  Hola, soy Facundo
 
+🎯 Estudiante de Lic. en Ciencias de la Computación
+🛡️ Orientado a Blue Team / SOC
 
-<p align="center">
-  <a target="_blank" align="center">
-  <img top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-</p>
+### 🔍 Enfoque
+- Monitoreo y análisis de eventos de seguridad
+- Triage de alertas
+- SIEM (Wazuh)
+- Seguridad en endpoints y redes
 
+### 📂 Proyectos destacados
+- Wazuh SIEM Lab – Blue Team
+- Análisis de tráfico con Wireshark
+- Hardening básico de Windows y Linux
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,github,haskell,css,js,jest,mongodb,react,nodedb" />
-  </a>
-</p>
-
-
+📫 LinkedIn: https://www.linkedin.com/in/facundo-granado/
