@@ -11,6 +11,6 @@
 
 ### 📂 Proyectos destacados
 - [Wazuh SIEM Lab – Blue Team](https://github.com/facundogranado/wazuh-siem-blue-team-lab)
-- Análisis de tráfico con Wireshark
+- [Análisis de tráfico con Wireshark](https://github.com/facundogranado/wireshark-network-analysis)
   
 📫 LinkedIn: https://www.linkedin.com/in/facundo-granado/
