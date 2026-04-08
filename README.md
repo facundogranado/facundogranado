@@ -1,21 +1,26 @@
 # Facundo Granado
 
-🛡️ Cybersecurity | Blue Team | Defensive Security
+🛡️ Analista de Sistemas| Ciberseguridad | Python
 
 ---
 
 ## Perfil Profesional
 
-Profesional en formacion, orientado a ciberseguridad defensiva con foco en protección de infraestructura, monitoreo de eventos y análisis técnico de actividad anómala en redes y endpoints.
+Orientado a ciberseguridad y análisis de sistemas, con experiencia práctica en laboratorio trabajando en monitoreo de eventos, análisis de tráfico y evaluación de configuraciones en entornos Windows/Linux.
 
-Experiencia práctica en diseño y operación de laboratorio de seguridad, incluyendo implementación de SIEM, análisis de tráfico cifrado y no cifrado, y simulación controlada de escenarios de amenaza para evaluación de capacidades defensivas.
+Desarrollo en Python para automatización, integración de APIs y procesamiento de información técnica, aplicando estas herramientas para mejorar análisis y eficiencia operativa.
 
-Interés en posiciones vinculadas a Blue Team, Security Monitoring, Threat Detection y mejora de postura de seguridad organizacional.
+Interesado en construir soluciones en la intersección entre desarrollo, sistemas y seguridad, con foco en detección, análisis y mejora continua.
 
 ---
 
 ## Capacidades Técnicas
 
+**Desarrollo y Automatización**
+- Python aplicado a automatización, análisis de logs y procesamiento de datos
+- Consumo e integración de APIs (REST)
+- Scripting para tareas de análisis y mejora operativa
+  
 **Monitoreo y Detección**
 - Implementación y administración de Wazuh (SIEM)
 - Análisis y correlación de eventos
@@ -33,8 +38,17 @@ Interés en posiciones vinculadas a Blue Team, Security Monitoring, Threat Detec
 - Windows (endpoint analysis básico)
 - Conceptos de hardening y superficie de ataque
 
-**Automatización**
-- Python aplicado a análisis de logs y tareas defensivas
+---
+
+## Tecnologías
+- Python
+- APIs REST
+- Flask
+- Docker
+- Git
+- SQL
+- Linux / Windows
+- Wireshark / Nmap
 
 ---
 
