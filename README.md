@@ -1,6 +1,6 @@
 # Facundo Granado
 
-🛡️ Analista de Sistemas| Ciberseguridad | Python
+🛡️ Analista de Sistemas | Ciberseguridad | Python
 
 ---
 
