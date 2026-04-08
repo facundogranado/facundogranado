@@ -54,7 +54,7 @@ Interesado en construir soluciones en la intersección entre desarrollo, sistema
 
 ## Proyectos Relevantes
 
-### [Recomendador de Videojuegos]
+### [Recomendador de Videojuegos](https://github.com/facundogranado/Recomendador-de-Videojuegos)
 - Implementacion de una API con Flask que cumpla un contrato definido (OpenAPI).
 - Consumir una API externa (Wikidata) e integrar sus datos en tu aplicación.
 - Uso de herramientas de desarrollo y pruebas: curl, pytest, Docker, entornos virtuales.
