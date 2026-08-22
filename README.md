@@ -1,16 +1,11 @@
 # Facundo Granado
 
- Analista de Sistemas | Ciberseguridad | Python
+ Analista de Sistemas | FullStack
 
 ---
 
 ## Perfil Profesional
 
-Orientado a ciberseguridad y análisis de sistemas, con experiencia práctica en laboratorio trabajando en monitoreo de eventos, análisis de tráfico y evaluación de configuraciones en entornos Windows/Linux.
-
-Desarrollo en Python para automatización, integración de APIs y procesamiento de información técnica, aplicando estas herramientas para mejorar análisis y eficiencia operativa.
-
-Interesado en construir soluciones en la intersección entre desarrollo, sistemas y seguridad, con foco en detección, análisis y mejora continua.
 
 ---
 
